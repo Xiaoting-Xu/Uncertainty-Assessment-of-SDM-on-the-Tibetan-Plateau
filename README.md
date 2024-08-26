@@ -1,0 +1,1 @@
+Here, we provide the distribution data of Gentiana yunnanensis and Gentiana siphonantha in the Tibet Plateau and its surrounding areas, as well as the code for predicting their current and future potential distribution and distribution zone changes.
